@@ -16,4 +16,4 @@ Year 13 student from NewZealand, the gaol is going to Japen study computer-sicen
 ## Progress
 ### 2026.4
 - Create this repo
-- ...
+- Understand the course in Japen's university. 期末考试！选修多，一周15-20节课，通识课有体育TT，128学分左右毕业 GPA 4分制，耶 有新生指导。
